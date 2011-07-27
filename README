@@ -1,0 +1,11 @@
+So far I've only comitted the straight JS files to prevent confusion between what's phonegap and what's the actual app.
+
+This probably should be restructured so its easy to build either an iphone app or an android app from the same sources.
+
+
+TODO:
+  A couple of the unit tests need to be updated (not a lot though)
+  I think the tournament lib needs to be beefed up to support unbalanced brackets
+  A legitimate contact manager needs to be added to the first screen.
+
+Please do not expect this to work out of the box.  I'm publishing early since I havent had time to tighten it up.
